@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myrecyclerview.databinding.ListItemBinding
-
+//
 /**
  * 2022-11-06
  * pureum
